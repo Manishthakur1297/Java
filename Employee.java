@@ -2,7 +2,6 @@ import java.util.*;
 
 interface fun
 {
-	//public void display();
 	public void raiseSalary(); 
 }
 
