@@ -1,0 +1,3 @@
+manish|21|8000|Clerk
+mj|34|50000|Programmer
+edfed|43|80000|Manager
